@@ -1,0 +1,55 @@
+{
+    "sketches": {
+        "SmokeTest": {
+            "view": "SmokeTest/SketchView",
+            "date": "2019-03-18T15:50:23.077Z",
+            "author": "kevma"
+        },
+        "VideoGLTest": {
+            "view": "VideoGLTest/SketchView",
+            "date": "2019-03-19T16:40:28.649Z",
+            "author": "kevma"
+        },
+        "ProjectionTest": {
+            "view": "ProjectionTest/SketchView",
+            "date": "2019-03-21T11:24:21.730Z",
+            "author": "kevma"
+        },
+        "SmokeProjectionTest": {
+            "view": "SmokeProjectionTest/SketchView",
+            "date": "2019-03-21T16:37:07.705Z",
+            "author": "kevma"
+        },
+        "NoiseTest": {
+            "view": "NoiseTest/SketchView",
+            "date": "2019-03-22T10:36:37.124Z",
+            "author": "kevma"
+        },
+        "NewTest": {
+            "view": "NewTest/SketchView",
+            "date": "2019-03-22T13:48:51.079Z",
+            "author": "kevma"
+        },
+        "FulcrumTest": {
+            "view": "FulcrumTest/SketchView",
+            "date": "2019-03-26T14:32:57.138Z",
+            "author": "kevma"
+        },
+        "FulcrumBlurTest": {
+            "view": "FulcrumBlurTest/SketchView",
+            "date": "2019-03-26T18:09:01.036Z",
+            "author": "kevma"
+        },
+        "FBOTest": {
+            "view": "FBOTest/SketchView",
+            "date": "2019-03-27T12:38:31.848Z",
+            "author": "kevma"
+        },
+        "FulcrumBlurWebGL1": {
+            "view": "FulcrumBlurWebGL1/SketchView",
+            "date": "2019-03-29T16:19:55.057Z",
+            "author": "kevma"
+        }
+    },
+    "project": "C:\\work\\SHCC\\James Blake"
+}
